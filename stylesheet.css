@@ -6,3 +6,7 @@ img {
 table, td {
 	border: 1px #3c870d solid;
 }
+
+th {
+	font-family:Verdana,serif;
+}
