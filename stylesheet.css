@@ -6,3 +6,13 @@ img {
 table, td {
 	border: 1px #3c870d solid;
 }
+
+div {
+    	height:50px;
+    	width:120px;
+    	border-color:#000000;
+    	background-color:#3c870d;
+    	border-radius:5px
+	margin:auto
+	text-align:center
+}
