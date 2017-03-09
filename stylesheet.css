@@ -10,7 +10,7 @@ table, td {
 div {
     	height:50px;
     	width:120px;
-    	border-color:#000000;
+    	border 2px solid #000000;
     	background-color:#3c870d;
     	border-radius:5px;
 	margin:auto;
