@@ -1,25 +1,15 @@
-img {
-	width:100px;
-	height:100px;
+.header {
+	
 }
 
-table, td {
-	border: 1px #3c870d solid;
+#left {
+	
 }
 
-div {
-    	height:50px;
-    	width:120px;
-    	background-color:#BCD2EE;
-    	border-radius:5px;
-	margin:auto;
-	text-align:center;
+#right {
+
 }
 
-a {
-    text-decoration:none;
-    color:black;
+.footer {
+	
 }
-
-span {
-    color:green
