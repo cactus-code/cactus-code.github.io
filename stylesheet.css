@@ -1,8 +1,6 @@
 .header {
 	background-color:#19ad08;
 	height:100px;
-	width:965px;
-	border-radius:5px;
 	z-index:1;
 	position:fixed;
 }
@@ -11,7 +9,6 @@
 	background-color:#4286f4;
 	height:2000px;
 	width:50px;
-	border-radius:5px;
 	z-index:2;
 	float:left;
 }
@@ -28,7 +25,5 @@
 .footer {
 	background-color:#19ad08;
 	height:100px;
-	width:960px;
-	border-radius:5px;
 	z-index:4;
 }
