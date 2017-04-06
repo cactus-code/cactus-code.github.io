@@ -1,11 +1,15 @@
 .header {
 	background-color:black;
 	color:white;
+	position:fixed;
+	height:50px;
 }
 	
 .footer {
 	background-color:black;
 	color:white;
+	position:fixed;
+	height:50px;
 }
 
 #left {
